@@ -6,8 +6,6 @@ pod "TextFileMerge", :path => "../TextFileMerge.podspec"
 target 'DemoTests' do
   pod 'Specta'
   pod 'Expecta'
-  pod 'FBSnapshotTestCase'
-  pod 'Expecta+Snapshots'
 end
 
 
